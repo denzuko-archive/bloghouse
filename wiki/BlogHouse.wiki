@@ -1,0 +1,69 @@
+#summary CompuTEK Industries sponsored Cyberlordian Studios BlogHouse Project
+
+= Introduction =
+
+The BlogHouse is a 650 square-feet non-profit Hackspace, DIY labs, GRL, and New Media/Scene Studio in Colorado, next to AFA. The BlogHouse was created by surviving hDc and Cyberlordian Consortium member Den Zuko, and ran by the Cyberlordian Studios and CompuTEK Industries.
+
+The project offers space for free exchange of information, and collaboration between technical-creative enthusiasts, hackers and founders. The BlogHouse project is dedicated to outfitting DIY-ers, New media producers and urben-artists with open source technologies for urban hacking projects and offers a virtual and physical space for interested people from the wide fields of IT, new media, gamers, and hacker culture.
+
+
+= Details =
+
+{{Hackerspace
+|country=USA
+|state=Colorado
+|city=Colorado Springs
+|founding=2007/08/17
+|coordinate=38.8633°N, -104.7919°E
+|membercount=5
+|fee=Visit the wiki for more info.
+|size=650 sq. ft.
+|status=building
+|site=http://denzuko.getmyip.com/
+|wiki=http://denzuko.getmyip.com/wiki
+|irc=irc://irc.2600.net:6667/%23cyberlords
+|postalcode=80920
+}}
+
+
+== Projects ==
+
+ * Virtual Project Space
+ * New Media Labs
+ * DIY Hackspace
+ * The Teachings of Master Den Zuko
+ * Citywide WiFi access project
+ * Geeks Of Game - Gamer Group
+
+== Blogroll ==
+
+ * [http://denzuko.tumblr.com/ BlogHouse Tumblr Blog]
+ * [http://myspace.com/denzuko Myspace Profile]
+ * [http://mhs.hackerdemia.com/ Fellow Local Hackspace GrendelVan]
+ * [http://graffitiresearchlab.com/ GRL Home]
+ * [http://hak5.org/ hak.5]
+ * [http://sdf.lonestar.org/ Shell Accounts]
+ * [http://crackmes.de/ CrackMes]
+ * [http://www.demoscene.tv/ DemoScene TV]
+ * [http://scene.org/ Demoscene Access]
+ * [http://packetstormsecurity.nl/ Resource Site]
+ * [http://www.lanpartymap.com/colorado-lan-party.html Colorado Springs Lanparties]
+ * [http://splat.uccs.edu/ SplatFest Lanparty]
+ * [http://academygamers.com Academy Gamers Tourny]
+ * [http://modarchive.org Music To Hack by]
+ * [http://www.casemodgod.com/index.htm Advance Casemod Guides]
+ * [http://www.hacker-dictionary.com/ Hacker Dictionary]
+ * [http://www.2600.org/ 2600 Hacker Zine]
+ * [http://www.hackergames.net/ Wargame and Online Challenges Archives]
+ * [http://textfiles.com/ TEH Archive of hacker culture]
+ * [http://phreak.org Digital Information Society]
+ * [http://www.abandonwarering.com/ Abandonware Directory]
+ * [http://vetusware.com Largest archive of working Abandonware]
+ * [http://johnny.ihackstuff.com/ghdb.php Google Hacking Database]
+ * [http://www.phenoelit-us.org/dpl/dpl.html Default Password List]
+ * [http://rainbowtables.shmoo.com/ Rainbow Hashtables by Shmoo Group]
+ * [http://www.cirt.net/passwords Default Password Database]
+
+== Contact Us == 
+
+Questions, comments, and the like: don't hesitate to contact us (possible also via Myspace/Facebook).
