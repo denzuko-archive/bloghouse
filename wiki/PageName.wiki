@@ -28,6 +28,7 @@ To create a project space(this will be automated in future revisions):
    * If a domain was registered then create the needed bind records
    * Post the domain(or vanity domain) into mysql://localhost/vhost.domains
  * Upload the user's public ssh key viva scp
+ * Register user with Webistrano
 
 = Resources =
  * [http://trac.computekindustries.com/ Trac Project tree]
