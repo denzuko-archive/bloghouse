@@ -22,6 +22,7 @@ To create a project space(this will be automated in future revisions):
  * Create a new account through Webmin(making sure the new user has the right group id)
  * Create a two SQL Table for the user($USERNAME & $USERNAME_test)
  * Create a trac and svn repositories in /var/svn & /var/www/trac/
+ * Create a new htdigest file for svn&trac authentication
  * Create a new vhost directory under /var/www/sites/${domain}
  * Update the virtual hosting info
    * If a domain was registered then create the needed bind records
