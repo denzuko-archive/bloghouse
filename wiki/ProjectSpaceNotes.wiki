@@ -1,4 +1,4 @@
-#labels Featured,Phase-Implementation,Phase-Deploy
+#labels Phase-Implementation,Phase-Deploy
 Project Repostory space:
 
 The static content should be put in the $TRAC_ENV/htdocs folder, and is accessed by URLs like <project_URL>/chrome/site/.... or under the vhost webroot folder (ie /var/www/sites/repos/) don't forget to set up your yum and tsunami/flatfile repositories in there as well.
