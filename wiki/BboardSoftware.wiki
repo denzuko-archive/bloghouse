@@ -1,5 +1,5 @@
+#summary Project Design page for integrated project space bboard/web-forum software
 #labels Phase-Requirements
-#Project Design page for integrated project space bboard/web-forum software
 
 _ Draft Document -
 
