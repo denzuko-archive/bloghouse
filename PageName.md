@@ -1,0 +1,32 @@
+# Introduction #
+This document has been created to help facilitate the ease of creating a project space on the development grid.
+
+# Prerequisites #
+
+A Valid XyberNET user account is required to register a project. If you don't already have one you can Sign up a user account now at [XyberNET](http://www.computekindustries.com). (Special discounts are available for BlogHouse members.)
+
+# Details #
+
+To create a project space(this will be automated in future revisions):
+
+  1. Register a User Account
+  1. Create a new project wiki on the Main site.
+  1. Once your account is verified you can login to shell account and create your project space
+
+
+= Creating Project Space -
+
+  * Create a new account through Webmin(making sure the new user has the right group id)
+  * Create a two SQL Table for the user($USERNAME & $USERNAME\_test)
+  * Create a trac and svn repositories in /var/svn & /var/www/trac/
+  * Create a new htdigest file for svn&trac authentication
+  * Create a new vhost directory under /var/www/sites/${domain}
+  * Update the virtual hosting info
+    * If a domain was registered then create the needed bind records
+    * Post the domain(or vanity domain) into mysql://localhost/vhost.domains
+  * Upload the user's public ssh key viva scp
+  * Register user with Webistrano
+
+# Resources #
+  * [Trac Project tree](http://trac.computekindustries.com/)
+  * [svn://psynosis.computekindustries.com/ svn repositories]
